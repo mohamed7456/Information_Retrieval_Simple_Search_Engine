@@ -1,0 +1,14 @@
+python-terrier
+nltk
+flair
+transformers
+tensorflow
+tensorflow_hub
+flask
+pyngrok
+beautifulsoup4
+requests
+pandas
+numpy
+scikit-learn
+tqdm
