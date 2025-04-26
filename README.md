@@ -53,7 +53,7 @@ This repository contains the implementation of an **Information Retrieval System
 
 ## Screenshots
 
-Below are some screenshots of the web interface:
+Below are some screenshots of the web interface and examples with different queries:
 
 1. **Once Opened**  
    ![Once Opened](images/simple_page.png)
