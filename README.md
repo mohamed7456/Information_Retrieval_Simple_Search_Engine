@@ -59,13 +59,13 @@ Below are some screenshots of the web interface and examples with different quer
    ![Once Opened](images/simple_page.png)
 
 2. **Search Results for Technology**  
-   ![Search Results for Technology](images/results_4_technology.png)
+   ![Search Results for Technology](images/technology_results.png)
 
 3. **Search Results for Sports**  
-   ![Search Results for Sports](images/results_4_sports.png)
+   ![Search Results for Sports](images/sports_results.png)
 
 4. **Search Results for COVID**  
-   ![Search Results for COVID](images/results_4_covid.png)
+   ![Search Results for COVID](images/covid_results.png)
 
 ## License
 This project is licensed under the MIT License.
