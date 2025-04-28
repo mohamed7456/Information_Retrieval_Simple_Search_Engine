@@ -24,15 +24,6 @@ This repository contains the implementation of an **Information Retrieval System
    pip install -r requirements.txt
    ```
 
-3. Ensure you have the following additional dependencies installed:
-   - `python-terrier`
-   - `nltk`
-   - `flair`
-   - `transformers`
-   - `tensorflow_hub`
-   - `flask`
-   - `pyngrok`
-
 ## Usage
 
 ### Run the Jupyter Notebook
